@@ -7,18 +7,16 @@
 ---
 
 ### 🚧 WIP Certifications
-*Work In Progress*
+*Em andamento*
 
 * **INE - eJPT** (Junior Penetration Tester)
-
 ---
 
 ### 🎯 To-Do Certs
 *Lista de Certificações Planejadas*
 
+* **Linux Professional Institute - LPIC-1** 
 * **CompTIA - Linux+** 
-* **CompTIA - Security+** 
-* **OffSec - TH-200** (Foundational Threat Hunting - OSCP)
-* **OffSec - SOC-200** (Security Operations and Defensive Analysis)
-
+* **CompTIA - CyberSecurity Analyst+ (CSA+)**
+* **RedHat - Certified System Administrator (RHCSA)**
 ---
