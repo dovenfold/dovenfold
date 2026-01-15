@@ -1,4 +1,4 @@
-# Vinícius Domingos, PenTesting around (Only allowed)
+# Vinícius Domingos, CyberSecurity Student
 
 ### B.Sc. 3/5 🎓
 
@@ -16,10 +16,9 @@
 ### 🎯 To-Do Certs
 *Lista de Certificações Planejadas*
 
-* **Whole LPI Essentials Kit** (Linux Professional Institute)
+* **CompTIA - Linux+** 
 * **CompTIA - Security+** 
-* **INE - eCPPT** (Certified Professional Penetration Tester)
-* **OffSec - PEN-200** (Pentesting with Kali Linux - OSCP)
-* **Zero Point Sec - CRTO 1** (Certified Red Team Operator)
+* **OffSec - TH-200** (Foundational Threat Hunting - OSCP)
+* **OffSec - SOC-200** (Security Operations and Defensive Analysis)
 
 ---
