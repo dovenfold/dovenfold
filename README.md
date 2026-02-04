@@ -19,4 +19,5 @@
 
 * **Zero Point Sec - CRTO 1** (Certified Red Team Operator)
 * **CompTIA - PenTest+**
+* **CompTIA - CyberSecurity Analyst**
 ---
